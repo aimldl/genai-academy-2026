@@ -4,7 +4,7 @@
 export NETWORK_NAME="easy-alloydb-vpc"
 export SUBNET_NAME="easy-alloydb-subnet"
 
-export YOUR_PASSWORD=""
+export YOUR_PASSWORD="alloydb"
 export PRIVATE_IP_HOST=""
 export PORT="5432"
 
