@@ -1,5 +1,7 @@
 # GenAI Academy 2026
 
+<img src="images/image-genai-academy-2026-track3-tkim.png">
+
 ## Documentation
 * [Step-by-Step Guide: GenAI_Academy_2026_Track 3_Step-by-Step_Hands-on_Guide.pdf](https://github.com/aimldl/genai-academy-2026/blob/main/GenAI_Academy_2026_Track%203_Step-by-Step_Hands-on_Guide.pdf)
 
