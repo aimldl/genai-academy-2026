@@ -20,7 +20,7 @@ Refer to the [item-images](https://github.com/aimldl/genai-academy-2026/tree/mai
 
 <img src="images/image-genai-academy-2026-track3-tkim.png">
 
-The Google Cloud Gen AI Academy APAC Edition workshops continue with Track 3: Build AI-powered applications using AI-ready databases like AlloyDB.
+The Google Cloud Gen AI Academy APAC Edition workshops continue with [Track 3: Build AI-powered applications using AI-ready databases like AlloyDB.](https://www.linkedin.com/feed/update/urn:li:share:7437875857345462272/?originTrackingId=ikD6skFr3iZ0fheclHsZLA%3D%3D)
 
 In this Korean-language session, T Kim, Customer Engineer, APAC at Google Cloud , will walk participants through how AlloyDB AI and Cloud SQL enable developers to build intelligent applications powered by structured data.
 
@@ -34,7 +34,7 @@ hashtag#GenAI hashtag#GoogleCloud hashtag#GenerativeAI hashtag#APACDevelopers ha
 
 ----
 
-Google Cloud Gen AI Academy APAC 에디션 워크숍이 트랙 3: AlloyDB와 같은 AI 지원 데이터베이스를 활용한 AI 기반 애플리케이션 구축 세션으로 이어집니다.
+Google Cloud Gen AI Academy APAC 에디션 워크숍이 [트랙 3: AlloyDB와 같은 AI 지원 데이터베이스를 활용한 AI 기반 애플리케이션 구축](https://www.linkedin.com/feed/update/urn:li:activity:7438011348783067138/?originTrackingId=ikD6skFr3iZ0fheclHsZLA%3D%3D) 세션으로 이어집니다.
 
 이번 한국어 세션에서는 Google Cloud APAC의 T Kim (김태형)과 함께 AlloyDB AI 및 Cloud SQL을 활용하여 정형 데이터를 기반으로 지능형 애플리케이션을 구축하는 방법을 살펴봅니다.
 
