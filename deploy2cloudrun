@@ -8,6 +8,11 @@ export YOUR_PASSWORD="alloydb"
 export PRIVATE_IP_HOST=""
 export PORT="5432"
 
+# Sanitize the copied GCP host string by stripping any appended port.
+# Example: "10.182.0.13:5432" becomes "10.182.0.13".
+# This prevents duplicate port errors when constructing the DATABASE_URL.
+export PRIVATE_IP_HOST="${PRIVATE_IP_HOST%:*}"
+
 export GEMINI_API_KEY=""
 export DATABASE_URL="postgresql+pg8000://postgres:${YOUR_PASSWORD}@${PRIVATE_IP_HOST}:${PORT}/postgres"
 export GCS_BUCKET_NAME=""
