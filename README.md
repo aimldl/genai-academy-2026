@@ -15,6 +15,8 @@ Refer to the [item-images](https://github.com/aimldl/genai-academy-2026/tree/mai
 * 🇰🇷 [AlloyDB 빠른 설정 실습](https://codelabs.developers.google.com/quick-alloydb-setup)
 * 🇰🇷 [Gemini 3 Flash 및 AlloyDB로 실시간 잉여 엔진 빌드](https://codelabs.developers.google.com/gemini-3-flash-on-alloydb-sustainability-app?hl=ko&authuser=1#0)
 
+Live stream: https://www.youtube.com/live/tWiFIGuUe0M
+
 ## About
 
 
