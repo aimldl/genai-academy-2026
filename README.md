@@ -1,7 +1,9 @@
 # GenAI Academy 2026
 
 ## Video
-* [Watch recording](https://www.youtube.com/live/tWiFIGuUe0M?si=5xUw0eRHEEkAWQ20) [1:23:34]
+* [Watch from 1:14](https://www.youtube.com/live/tWiFIGuUe0M?si=5xUw0eRHEEkAWQ20](https://www.youtube.com/live/tWiFIGuUe0M?si=ML1OYy5Vfh0MpSyG&t=74)) [1:23:34]
+* [Youtube Livestream Link](https://www.youtube.com/live/tWiFIGuUe0M)
+
 
 ## Documentation
 * [Step-by-Step Guide: GenAI_Academy_2026_Track 3_Step-by-Step_Hands-on_Guide.pdf](https://github.com/aimldl/genai-academy-2026/blob/main/GenAI_Academy_2026_Track%203_Step-by-Step_Hands-on_Guide.pdf)
