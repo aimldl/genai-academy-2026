@@ -1,7 +1,7 @@
 # GenAI Academy 2026
 
 ## Video
-* [Watch from 1:14](https://www.youtube.com/live/tWiFIGuUe0M?si=5xUw0eRHEEkAWQ20](https://www.youtube.com/live/tWiFIGuUe0M?si=ML1OYy5Vfh0MpSyG&t=74)) [1:23:34]
+* [Watch from 2:45 to 1:14:50](https://www.youtube.com/live/tWiFIGuUe0M?si=5xUw0eRHEEkAWQ20](https://www.youtube.com/live/tWiFIGuUe0M?si=ML1OYy5Vfh0MpSyG&t=74)) [1:23:34]
 * [Youtube Livestream Link](https://www.youtube.com/live/tWiFIGuUe0M)
 
 
