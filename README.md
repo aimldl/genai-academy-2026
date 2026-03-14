@@ -1,5 +1,8 @@
 # GenAI Academy 2026
 
+## Video
+* [Watch recording](https://www.youtube.com/live/tWiFIGuUe0M?si=5xUw0eRHEEkAWQ20) [1:23:34]
+
 ## Documentation
 * [Step-by-Step Guide: GenAI_Academy_2026_Track 3_Step-by-Step_Hands-on_Guide.pdf](https://github.com/aimldl/genai-academy-2026/blob/main/GenAI_Academy_2026_Track%203_Step-by-Step_Hands-on_Guide.pdf)
 
@@ -15,7 +18,6 @@ Refer to the [item-images](https://github.com/aimldl/genai-academy-2026/tree/mai
 * 🇰🇷 [AlloyDB 빠른 설정 실습](https://codelabs.developers.google.com/quick-alloydb-setup)
 * 🇰🇷 [Gemini 3 Flash 및 AlloyDB로 실시간 잉여 엔진 빌드](https://codelabs.developers.google.com/gemini-3-flash-on-alloydb-sustainability-app?hl=ko&authuser=1#0)
 
-Live stream: https://www.youtube.com/live/tWiFIGuUe0M
 
 ## About
 
