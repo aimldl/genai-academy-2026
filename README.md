@@ -4,6 +4,8 @@
 * [Watch from 2:45 to 1:14:50](https://www.youtube.com/live/tWiFIGuUe0M?si=5xUw0eRHEEkAWQ20](https://www.youtube.com/live/tWiFIGuUe0M?si=ML1OYy5Vfh0MpSyG&t=74)) [1:23:34]
 * [Youtube Livestream Link](https://www.youtube.com/live/tWiFIGuUe0M)
 
+Continue from [32:10](https://www.youtube.com/live/tWiFIGuUe0M?si=QOGgar6oIiOJjbdo)
+
 
 ## Documentation
 * [Step-by-Step Guide: GenAI_Academy_2026_Track 3_Step-by-Step_Hands-on_Guide.pdf](https://github.com/aimldl/genai-academy-2026/blob/main/GenAI_Academy_2026_Track%203_Step-by-Step_Hands-on_Guide.pdf)
